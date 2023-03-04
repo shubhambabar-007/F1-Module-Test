@@ -267,6 +267,7 @@ footer{
 .mail{
     width: 125px;
     height: 75px;
+    color: #FFFFFF;
     display: flex;
     flex-flow: column wrap;
     justify-content: space-between;
